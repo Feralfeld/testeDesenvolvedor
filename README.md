@@ -5,6 +5,7 @@ Teste desenvolvido em java
 
 Configuração:
 Necessario instalação do lombok -> https://projectlombok.org/download
+Questões 1 e 2 projeto Maven
 
 Link para documentação da api(questão 2 e 3)-> http://localhost:8080/swagger-ui.html#/
 É possivel fazer requições para o servidor de dentro do próprio swagger
